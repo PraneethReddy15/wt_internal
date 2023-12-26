@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+button{
+    padding: 100px 0;
+    width: 40%;
+    cursor: pointer;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+}
+.btn2{
+    background-color: white;
+    color: black;
+    font-size: 2rem;
+}
+.btn1:hover{
+    background-color: white;
+    color: black;
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-size: 3rem;
+}
